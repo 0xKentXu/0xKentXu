@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0xKentXu
+- 👋 Hi, I’m @KentXu
 - 👀 I’m interested in web3&dapp
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on web3&dapp
